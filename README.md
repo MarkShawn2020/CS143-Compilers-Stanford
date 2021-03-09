@@ -29,7 +29,8 @@ Steps:
 * Go to `/usr/class` and download the tarball:
 
         cd /usr/class 
-        wget https://s3-us-west-1.amazonaws.com/prod-edx/Compilers/Misc/student-dist.tar.gz
+        wget https://s3-us-west-1.amazonaws.com/prod-edx/Compilers/Misc/student-dist.tar.gz --no-check-certificate
+
 
 * Untar:
 
