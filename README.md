@@ -28,8 +28,8 @@ Steps:
 
 * Go to `/usr/class` and download the tarball:
 
-        cd /usr/class
-        wget http://spark-university.s3.amazonaws.com/stanford-compilers/vm/student-dist.tar.gz
+        cd /usr/class 
+        wget https://s3-us-west-1.amazonaws.com/prod-edx/Compilers/Misc/student-dist.tar.gz
 
 * Untar:
 
